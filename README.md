@@ -1,18 +1,24 @@
 # XTermux - Enhanced Termux Fork
 
 ![Build Status](https://github.com/CodeSpace-Xerox-1/XTermux/workflows/Build/badge.svg)
-![Version](https://img.shields.io/badge/version-vAlpha.1-blue)
+![Version](https://img.shields.io/badge/version-vAlpha.2-blue)
 
 **XTermux** - Enhanced fork of [Termux](https://termux.dev) with extra features for power users.
 
-## What's New in vAlpha.1
+## What's New in vAlpha.2
 
 - ✅ Tkinter support (Python GUI)
+- ✅ PySide6 support (Python Qt GUI)
+- ✅ Swing support (Java GUI)
+- ✅ PyQt support
+- ✅ All GUI modules for all languages
+- ✅ Built-in GUI app launcher (like PyDroid 3)
 - ✅ Enhanced color schemes
 - ✅ Additional keyboard shortcuts
 - ✅ Improved terminal emulation
 - ✅ Custom themes
 - ✅ Extended clipboard support
+- ✅ 32-bit (armv7a) and Universal APK builds
 
 ## Installation
 
